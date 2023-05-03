@@ -7,23 +7,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/wx-chevalier/HA-Series">
+  <a href="https://github.com/wx-chevalier/HA-Notes">
     <img src="https://assets.ng-tech.icu/item/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
   <p align="center">
-    <a href="https://github.com/wx-chevalier/HA-Series">速览手册</a>
+    <a href="https://github.com/wx-chevalier/HA-Notes">速览手册</a>
     ·
-    <a href="https://github.com/wx-chevalier/HA-Series/issues">Bug</a>
+    <a href="https://github.com/wx-chevalier/HA-Notes/issues">Bug</a>
     ·
-    <a href="https://github.com/wx-chevalier/HA-Series/issues">参考资料</a>
+    <a href="https://github.com/wx-chevalier/HA-Notes/issues">参考资料</a>
   </p>
 </p>
 # 测试
 
 测试是软件开发中不可避免的环节。
 
-> 关于编程语言中单元测试的内容请浏览各个语言的独立系列，譬如 [JavaScript-Series](https://github.com/wx-chevalier/JavaScript-Series?q=)；对于各个应用框架/运行环境中涉及到的集成测试相关内容，请参阅各个应用的系列，譬如 [Spring-Series](https://github.com/wx-chevalier/Spring-Series?q=) 或者 [Web-Series](https://github.com/wx-chevalier/Web-Series?q=)。
+> 关于编程语言中单元测试的内容请浏览各个语言的独立系列，譬如 [JavaScript-Notes](https://github.com/wx-chevalier/JavaScript-Notes?q=)；对于各个应用框架/运行环境中涉及到的集成测试相关内容，请参阅各个应用的系列，譬如 [Spring-Notes](https://github.com/wx-chevalier/Spring-Notes?q=) 或者 [Web-Notes](https://github.com/wx-chevalier/Web-Notes?q=)。
 
 ![Test in DevOps](https://s2.ax1x.com/2020/01/24/1ZUX8A.png)
 
@@ -62,13 +62,13 @@ Contributions are what make the open source community such an amazing place to b
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/HA-Series.svg?style=flat-square
-[contributors-url]: https://github.com/wx-chevalier/HA-Series/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/HA-Series.svg?style=flat-square
-[forks-url]: https://github.com/wx-chevalier/HA-Series/network/members
-[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/HA-Series.svg?style=flat-square
-[stars-url]: https://github.com/wx-chevalier/HA-Series/stargazers
-[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/HA-Series.svg?style=flat-square
-[issues-url]: https://github.com/wx-chevalier/HA-Series/issues
-[license-shield]: https://img.shields.io/github/license/wx-chevalier/HA-Series.svg?style=flat-square
-[license-url]: https://github.com/wx-chevalier/HA-Series/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/HA-Notes.svg?style=flat-square
+[contributors-url]: https://github.com/wx-chevalier/HA-Notes/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/HA-Notes.svg?style=flat-square
+[forks-url]: https://github.com/wx-chevalier/HA-Notes/network/members
+[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/HA-Notes.svg?style=flat-square
+[stars-url]: https://github.com/wx-chevalier/HA-Notes/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/HA-Notes.svg?style=flat-square
+[issues-url]: https://github.com/wx-chevalier/HA-Notes/issues
+[license-shield]: https://img.shields.io/github/license/wx-chevalier/HA-Notes.svg?style=flat-square
+[license-url]: https://github.com/wx-chevalier/HA-Notes/blob/master/LICENSE.txt
