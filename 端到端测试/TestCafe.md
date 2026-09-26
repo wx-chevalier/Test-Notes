@@ -4,7 +4,7 @@
 
 ```js
 /**
- * Testcafe browser provider plugin for the nightmare browser automation library.
+ - Testcafe browser provider plugin for the nightmare browser automation library.
  */
 export default {
   // reference to Nightmare instance
